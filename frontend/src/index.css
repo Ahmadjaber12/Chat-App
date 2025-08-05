@@ -1,0 +1,6 @@
+@import "tailwindcss";
+/* ignore*/
+@plugin "daisyui"{
+    themes:all
+}
+
